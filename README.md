@@ -1,0 +1,2 @@
+# weeklytask
+python and Datascience
